@@ -17,16 +17,16 @@
           <mxGeometry x="97" y="711" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KvvdM3KGvvwzCpwcdExc-8" value="角色匹配" style="rhombus;strokeWidth=2;whiteSpace=wrap;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" vertex="1" parent="1">
-          <mxGeometry x="331" y="742" width="118" height="118" as="geometry" />
+          <mxGeometry x="340" y="705" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="KvvdM3KGvvwzCpwcdExc-9" value="权限配置/系统维护" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" vertex="1" parent="1">
-          <mxGeometry x="-300" y="1372" width="196" height="54" as="geometry" />
+          <mxGeometry x="-292" y="1372" width="196" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KvvdM3KGvvwzCpwcdExc-10" value="操作完成退出" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" vertex="1" parent="1">
           <mxGeometry x="725" y="1476" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KvvdM3KGvvwzCpwcdExc-11" value="功能选择" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" vertex="1" parent="1">
-          <mxGeometry x="330" y="901" width="124" height="54" as="geometry" />
+          <mxGeometry x="337" y="854" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KvvdM3KGvvwzCpwcdExc-12" value="图书采编/上下架" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" vertex="1" parent="1">
           <mxGeometry x="-52" y="1372" width="180" height="54" as="geometry" />
@@ -44,7 +44,7 @@
           <mxGeometry x="425" y="1372" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KvvdM3KGvvwzCpwcdExc-18" value="功能选择" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" vertex="1" parent="1">
-          <mxGeometry x="1273" y="934" width="124" height="54" as="geometry" />
+          <mxGeometry x="1275" y="924" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KvvdM3KGvvwzCpwcdExc-19" value="图书检索/查馆藏状态" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" vertex="1" parent="1">
           <mxGeometry x="837" y="1372" width="212" height="54" as="geometry" />
