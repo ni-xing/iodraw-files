@@ -20,7 +20,7 @@
           <mxGeometry x="340" y="705" width="118" height="118" as="geometry" />
         </mxCell>
         <mxCell id="KvvdM3KGvvwzCpwcdExc-9" value="权限配置/系统维护" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" vertex="1" parent="1">
-          <mxGeometry x="-292" y="1372" width="196" height="54" as="geometry" />
+          <mxGeometry x="-293" y="1364" width="196" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KvvdM3KGvvwzCpwcdExc-10" value="操作完成退出" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" vertex="1" parent="1">
           <mxGeometry x="725" y="1476" width="156" height="54" as="geometry" />
@@ -83,12 +83,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="KvvdM3KGvvwzCpwcdExc-28" value="系统管理员" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1" source="KvvdM3KGvvwzCpwcdExc-8">
+        <mxCell id="KvvdM3KGvvwzCpwcdExc-28" value="系统管理员" style="curved=1;startArrow=none;endArrow=block;exitX=0;exitY=0.58;entryX=0.5;entryY=0;rounded=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-200" y="897" />
+              <mxPoint x="-206" y="888.86" />
             </Array>
-            <mxPoint x="-200" y="1372" as="targetPoint" />
+            <mxPoint x="-206" y="1363.86" as="targetPoint" />
+            <mxPoint x="342.13793103448234" y="763.9979310344826" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="KvvdM3KGvvwzCpwcdExc-29" value="" style="curved=1;startArrow=none;endArrow=block;exitX=0.5;exitY=1;entryX=0;entryY=0.42;rounded=0;" edge="1" parent="1" target="KvvdM3KGvvwzCpwcdExc-10">
