@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="69o9f-Bp7r86DV8PJd1w">
-    <mxGraphModel dx="3830" dy="1515" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2974" dy="899" grid="0" gridSize="10" guides="0" tooltips="1" connect="0" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,7 +23,7 @@
           <mxGeometry x="725" y="1476" width="156" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KvvdM3KGvvwzCpwcdExc-11" value="功能选择" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" vertex="1" parent="1">
-          <mxGeometry x="328" y="934" width="124" height="54" as="geometry" />
+          <mxGeometry x="330" y="901" width="124" height="54" as="geometry" />
         </mxCell>
         <mxCell id="KvvdM3KGvvwzCpwcdExc-12" value="图书采编/上下架" style="whiteSpace=wrap;strokeWidth=2;fillColor=light-dark(#eeeeee,#1f2020);strokeColor=light-dark(#999999,#cccccc);fontColor=light-dark(#333333,#cccccc);" vertex="1" parent="1">
           <mxGeometry x="-52" y="1372" width="180" height="54" as="geometry" />
