@@ -239,6 +239,11 @@
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-87" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;数据类型是否支持展示&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-570" y="-230" width="140" height="130" as="geometry" />
         </mxCell>
+        <mxCell id="vJ-QeR5VECsrcRjRGB-3-101" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="vJ-QeR5VECsrcRjRGB-3-92">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-430" y="-45" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-92" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;折线图展示数据变化趋势&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-560" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
@@ -248,8 +253,8 @@
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-98" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 24px;&quot;&gt;列表展示具体以数据&lt;/span&gt;&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-880" y="-210" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vJ-QeR5VECsrcRjRGB-3-100" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-690" y="70" width="120" height="60" as="geometry" />
+        <mxCell id="vJ-QeR5VECsrcRjRGB-3-100" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 36px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-690" y="30" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
