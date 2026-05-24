@@ -146,8 +146,14 @@
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-51" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;是否有数据&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-700" y="-520" width="160" height="120" as="geometry" />
         </mxCell>
+        <mxCell id="vJ-QeR5VECsrcRjRGB-3-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJ-QeR5VECsrcRjRGB-3-54" target="vJ-QeR5VECsrcRjRGB-3-56">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-54" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;列表展示二级测试项数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-760" y="-380" width="280" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vJ-QeR5VECsrcRjRGB-3-56" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;列表展示二级测试项数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-910" y="-230" width="280" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
