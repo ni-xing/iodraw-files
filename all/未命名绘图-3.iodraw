@@ -38,7 +38,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="vJ-QeR5VECsrcRjRGB-3-79" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vJ-QeR5VECsrcRjRGB-3-15">
+        <mxCell id="vJ-QeR5VECsrcRjRGB-3-79" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="vJ-QeR5VECsrcRjRGB-3-15">
           <mxGeometry x="-0.0507" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -51,9 +51,6 @@
         </mxCell>
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-19" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;列表展示一级测试项&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="vJ-QeR5VECsrcRjRGB-3-22">
           <mxGeometry y="304.34782608695656" width="232.94117647058823" height="45.652173913043484" as="geometry" />
-        </mxCell>
-        <mxCell id="vJ-QeR5VECsrcRjRGB-3-21" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;Yes&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vJ-QeR5VECsrcRjRGB-3-22">
-          <mxGeometry x="116.47058823529412" y="281.5217391304348" width="58.23529411764706" height="22.826086956521742" as="geometry" />
         </mxCell>
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-27" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJ-QeR5VECsrcRjRGB-3-23" target="vJ-QeR5VECsrcRjRGB-3-26">
           <mxGeometry relative="1" as="geometry" />
