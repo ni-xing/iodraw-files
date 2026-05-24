@@ -67,6 +67,9 @@
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;首页&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-910" y="-720" width="120" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="vJ-QeR5VECsrcRjRGB-3-6" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-920" y="-650" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
