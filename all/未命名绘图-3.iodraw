@@ -7,9 +7,6 @@
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-19" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-1550" y="-710" width="360" height="330" as="geometry" />
         </mxCell>
-        <mxCell id="Rn1CSl0_Mav4i21O7aA9-11" value="&lt;font face=&quot;宋体&quot;&gt;No&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="Rn1CSl0_Mav4i21O7aA9-19" vertex="1">
-          <mxGeometry x="230" y="100" width="70" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;登录页&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Rn1CSl0_Mav4i21O7aA9-19" vertex="1">
           <mxGeometry x="52.94117647058824" width="127.05882352941173" height="29.999999999999996" as="geometry" />
         </mxCell>
@@ -44,6 +41,11 @@
         </mxCell>
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-66" value="no" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rn1CSl0_Mav4i21O7aA9-10">
           <mxGeometry x="-0.2763" y="-1" relative="1" as="geometry">
+            <mxPoint x="3" y="-52" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vJ-QeR5VECsrcRjRGB-3-67" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;No&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="Rn1CSl0_Mav4i21O7aA9-10">
+          <mxGeometry x="0.0077" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
