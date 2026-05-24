@@ -239,8 +239,8 @@
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-92" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;折线图展示数据变化趋势&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-560" y="-60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vJ-QeR5VECsrcRjRGB-3-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-700" y="-200" width="120" height="60" as="geometry" />
+        <mxCell id="vJ-QeR5VECsrcRjRGB-3-96" value="异常处理界面" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-700" y="-210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
