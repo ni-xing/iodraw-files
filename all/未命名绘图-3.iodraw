@@ -172,7 +172,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-14" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;进入主页&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="-1550" y="-450" width="232.94" height="30" as="geometry" />
+          <mxGeometry x="-1550" y="-450" width="230" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-18" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="-1500" y="-370" width="130" height="30" as="geometry" />
