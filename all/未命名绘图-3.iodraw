@@ -203,7 +203,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-87" value="数据类型是否支持展示" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-550" y="-250" width="80" height="80" as="geometry" />
+          <mxGeometry x="-580" y="-220" width="150" height="140" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
