@@ -44,8 +44,8 @@
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-57" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="vJ-QeR5VECsrcRjRGB-3-54" target="vJ-QeR5VECsrcRjRGB-3-56">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-750" y="-300" />
-              <mxPoint x="-750" y="-300" />
+              <mxPoint x="-750" y="-280" />
+              <mxPoint x="-750" y="-280" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -53,7 +53,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-54" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;列表展示二级测试项数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-760" y="-380" width="280" height="60" as="geometry" />
+          <mxGeometry x="-760" y="-350" width="280" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-56" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;查询&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-810" y="-270" width="120" height="60" as="geometry" />
