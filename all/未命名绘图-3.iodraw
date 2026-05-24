@@ -160,8 +160,11 @@
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-56" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;查询&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-810" y="-270" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vJ-QeR5VECsrcRjRGB-3-59" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;图标展示&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-670" y="-270" width="120" height="60" as="geometry" />
+        <mxCell id="vJ-QeR5VECsrcRjRGB-3-59" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;图表展示&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-680" y="-270" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vJ-QeR5VECsrcRjRGB-3-60" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;图表展示&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="-270" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
