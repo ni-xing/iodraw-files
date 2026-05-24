@@ -14,7 +14,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-4" value="输入用户名，密码，验证码" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-820" y="-400" width="120" height="60" as="geometry" />
+          <mxGeometry x="-840" y="-400" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
