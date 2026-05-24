@@ -48,7 +48,7 @@
           <mxGeometry x="42.35294117647059" y="150" width="148.23529411764704" height="59.99999999999999" as="geometry" />
         </mxCell>
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-11" value="&lt;font face=&quot;宋体&quot;&gt;No&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="Rn1CSl0_Mav4i21O7aA9-19" vertex="1">
-          <mxGeometry x="240.00050420168068" y="85.00000000000001" width="105.88235294117648" height="20" as="geometry" />
+          <mxGeometry x="230.00050420168068" y="85.00000000000001" width="105.88235294117648" height="20" as="geometry" />
         </mxCell>
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-13" value="&lt;font face=&quot;宋体&quot;&gt;Yes&lt;/font&gt;" style="text;strokeColor=none;fillColor=none;html=1;fontSize=24;fontStyle=1;verticalAlign=middle;align=center;" parent="Rn1CSl0_Mav4i21O7aA9-19" vertex="1">
           <mxGeometry x="127.05882352941173" y="210" width="105.88235294117648" height="20" as="geometry" />
@@ -63,6 +63,9 @@
         </mxCell>
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-18" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="Rn1CSl0_Mav4i21O7aA9-19" vertex="1">
           <mxGeometry x="52.94117647058824" y="300" width="127.05882352941173" height="29.999999999999996" as="geometry" />
+        </mxCell>
+        <mxCell id="vJ-QeR5VECsrcRjRGB-3-63" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="Rn1CSl0_Mav4i21O7aA9-19" source="Rn1CSl0_Mav4i21O7aA9-11" target="Rn1CSl0_Mav4i21O7aA9-11">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-22" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="-1190" y="-720" width="330" height="350" as="geometry" />
