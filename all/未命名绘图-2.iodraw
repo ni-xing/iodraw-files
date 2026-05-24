@@ -21,6 +21,9 @@
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-4" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;输入用户名，密码，验证码&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-870" y="-400" width="220" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Rn1CSl0_Mav4i21O7aA9-7" value="&lt;span style=&quot;font-size: 18px;&quot;&gt;点击“登录”按钮&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-870" y="-300" width="220" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
