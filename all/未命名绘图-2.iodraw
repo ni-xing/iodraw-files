@@ -7,6 +7,12 @@
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;登录页&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-751" y="-494" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="Rn1CSl0_Mav4i21O7aA9-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.477;exitY=0.94;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Rn1CSl0_Mav4i21O7aA9-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="-564" y="-78" as="sourcePoint" />
+            <mxPoint x="-514" y="-128" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
