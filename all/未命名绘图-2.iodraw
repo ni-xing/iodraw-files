@@ -7,10 +7,10 @@
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;登录页&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-820" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rn1CSl0_Mav4i21O7aA9-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.477;exitY=0.94;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+        <mxCell id="Rn1CSl0_Mav4i21O7aA9-3" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-761.38" y="-419.9999999999999" as="sourcePoint" />
-            <mxPoint x="-758.62" y="-336.4" as="targetPoint" />
+            <mxPoint x="-760.5" y="-440" as="sourcePoint" />
+            <mxPoint x="-760.12" y="-356.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
