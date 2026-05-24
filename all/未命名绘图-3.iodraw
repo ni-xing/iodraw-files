@@ -160,16 +160,11 @@
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-8" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;是否通过验证&lt;/font&gt;" style="rhombus;whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1507.6470588235295" y="-570" width="148.23529411764704" height="59.99999999999999" as="geometry" />
         </mxCell>
-        <mxCell id="Rn1CSl0_Mav4i21O7aA9-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="Rn1CSl0_Mav4i21O7aA9-14" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1433.5294117647059" y="-420" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-14" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;进入主页&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-1550" y="-480" width="232.94117647058826" height="29.999999999999996" as="geometry" />
         </mxCell>
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-18" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;结束&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1497.0588235294117" y="-420" width="127.05882352941173" height="29.999999999999996" as="geometry" />
+          <mxGeometry x="-1499.9988235294118" y="-310" width="127.05882352941173" height="29.999999999999996" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
