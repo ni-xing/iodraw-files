@@ -1,16 +1,16 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.6.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="69o9f-Bp7r86DV8PJd1w">
-    <mxGraphModel dx="1577" dy="1701" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1977" dy="1701" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Rn1CSl0_Mav4i21O7aA9-2" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;登录页&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-751" y="-494" width="120" height="60" as="geometry" />
+          <mxGeometry x="-820" y="-500" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Rn1CSl0_Mav4i21O7aA9-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.477;exitY=0.94;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Rn1CSl0_Mav4i21O7aA9-2">
+        <mxCell id="Rn1CSl0_Mav4i21O7aA9-3" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.477;exitY=0.94;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-564" y="-78" as="sourcePoint" />
-            <mxPoint x="-691" y="-363" as="targetPoint" />
+            <mxPoint x="-761.38" y="-419.9999999999999" as="sourcePoint" />
+            <mxPoint x="-758.62" y="-336.4" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
