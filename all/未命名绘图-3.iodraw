@@ -147,7 +147,7 @@
           <mxGeometry x="-700" y="-520" width="160" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-54" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 18px;&quot;&gt;列表展示二级测试项数据&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-740" y="-390" width="250" height="60" as="geometry" />
+          <mxGeometry x="-750" y="-380" width="260" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
