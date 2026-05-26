@@ -283,6 +283,11 @@
         <mxCell id="vJ-QeR5VECsrcRjRGB-3-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.413;entryY=0.007;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vJ-QeR5VECsrcRjRGB-3-105" source="vJ-QeR5VECsrcRjRGB-3-96" target="vJ-QeR5VECsrcRjRGB-3-100" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="x1tU0hcMoAeCIKl9zUBJ-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="x1tU0hcMoAeCIKl9zUBJ-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1435" y="310" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="x1tU0hcMoAeCIKl9zUBJ-1" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 24px;&quot;&gt;一级测试用例&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1520" y="190" width="170" height="60" as="geometry" />
         </mxCell>
