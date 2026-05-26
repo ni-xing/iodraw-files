@@ -347,7 +347,7 @@
           <mxGeometry x="-1484.0740740740741" y="-50" width="148.14814814814815" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yNLlT7wcJgvhr2moN8pU-3" value="ID" style="ellipse;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1740" y="70" width="111.11111111111113" height="80" as="geometry" />
+          <mxGeometry x="-1660" y="60" width="111.11111111111113" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yNLlT7wcJgvhr2moN8pU-4" value="二级测试用例名称" style="ellipse;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="-1530.3703703703704" y="60" width="111.11111111111113" height="80" as="geometry" />
@@ -378,8 +378,8 @@
         </mxCell>
         <mxCell id="yNLlT7wcJgvhr2moN8pU-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yNLlT7wcJgvhr2moN8pU-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1638.148148148148" y="200" as="sourcePoint" />
-            <mxPoint x="-1684.4444444444443" y="40" as="targetPoint" />
+            <mxPoint x="-1558.148148148148" y="200" as="sourcePoint" />
+            <mxPoint x="-1604.4444444444443" y="40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yNLlT7wcJgvhr2moN8pU-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="yNLlT7wcJgvhr2moN8pU-4">
