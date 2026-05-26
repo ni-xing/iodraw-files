@@ -321,14 +321,6 @@
             <mxPoint x="-1170" y="220" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="z4ztpBrvET7YsYa7LQP7-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="z4ztpBrvET7YsYa7LQP7-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1280" y="510" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="z4ztpBrvET7YsYa7LQP7-1" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="-1440" y="460" width="50" height="100" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
