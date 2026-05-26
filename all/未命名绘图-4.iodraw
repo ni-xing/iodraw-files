@@ -353,7 +353,7 @@
           <mxGeometry x="-1610.0003703703705" y="60" width="111.11111111111113" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yNLlT7wcJgvhr2moN8pU-5" value="二级测试用例业务ID" style="ellipse;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
-          <mxGeometry x="-1400.7407407407409" y="60" width="111.11111111111113" height="80" as="geometry" />
+          <mxGeometry x="-1210.0007407407409" y="-80" width="111.11111111111113" height="80" as="geometry" />
         </mxCell>
         <mxCell id="yNLlT7wcJgvhr2moN8pU-6" value="测试轮次" style="ellipse;whiteSpace=wrap;html=1;container=0;" vertex="1" parent="1">
           <mxGeometry x="-1271.111111111111" y="60" width="111.11111111111113" height="80" as="geometry" />
@@ -372,8 +372,8 @@
         </mxCell>
         <mxCell id="yNLlT7wcJgvhr2moN8pU-10" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yNLlT7wcJgvhr2moN8pU-5">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1363.7037037037037" y="100" as="sourcePoint" />
-            <mxPoint x="-1345.1851851851852" y="40" as="targetPoint" />
+            <mxPoint x="-1172.9637037037037" y="-40" as="sourcePoint" />
+            <mxPoint x="-1154.4451851851852" y="-100" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yNLlT7wcJgvhr2moN8pU-12" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="yNLlT7wcJgvhr2moN8pU-3">
@@ -417,8 +417,8 @@
         </mxCell>
         <mxCell id="yNLlT7wcJgvhr2moN8pU-25" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="-1670" y="40" as="sourcePoint" />
-            <mxPoint x="-1300" y="-60" as="targetPoint" />
+            <mxPoint x="-1700" y="-120" as="sourcePoint" />
+            <mxPoint x="-1010" y="-120" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
