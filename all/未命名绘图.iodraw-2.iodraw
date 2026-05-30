@@ -7,10 +7,10 @@
         <mxCell id="uIfyeqzrqg8lKfEenGQn-1" value="需求分析" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="370" y="130" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uIfyeqzrqg8lKfEenGQn-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=4.333333333333333;endSize=3.9766666666666666;" edge="1" parent="1">
+        <mxCell id="uIfyeqzrqg8lKfEenGQn-2" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=14.333333333333334;endSize=4.866666666666666;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="400" y="170" as="sourcePoint" />
-            <mxPoint x="400" y="200" as="targetPoint" />
+            <mxPoint x="399.83" y="170" as="sourcePoint" />
+            <mxPoint x="400" y="190" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
