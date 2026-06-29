@@ -90,8 +90,8 @@
             <mxPoint x="60" y="720" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BD6Zr6DT_tauVBgEH7CB-28" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 36px;&quot;&gt;员工&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="280" y="710" width="120" height="60" as="geometry" />
+        <mxCell id="BD6Zr6DT_tauVBgEH7CB-28" value="&lt;font face=&quot;宋体&quot; style=&quot;font-size: 36px;&quot;&gt;请假申请&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-350" y="480" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
