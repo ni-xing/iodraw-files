@@ -56,7 +56,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BD6Zr6DT_tauVBgEH7CB-48" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;考勤&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="750" y="260" width="170" height="60" as="geometry" />
+          <mxGeometry x="490" y="290" width="170" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BD6Zr6DT_tauVBgEH7CB-65" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="BD6Zr6DT_tauVBgEH7CB-1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -70,7 +70,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BD6Zr6DT_tauVBgEH7CB-67" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;领取&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="480" y="465" width="120" height="90" as="geometry" />
+          <mxGeometry x="460" y="475" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="BD6Zr6DT_tauVBgEH7CB-68" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="BD6Zr6DT_tauVBgEH7CB-67" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -84,7 +84,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="BD6Zr6DT_tauVBgEH7CB-70" value="&lt;font face=&quot;宋体&quot;&gt;&lt;span style=&quot;font-size: 36px;&quot;&gt;考勤&lt;/span&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="770" y="480" width="170" height="60" as="geometry" />
+          <mxGeometry x="760" y="490" width="170" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
