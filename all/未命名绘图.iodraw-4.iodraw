@@ -74,6 +74,11 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="6e8HVfyJbzqoVIDTytIn-2" value="&lt;font style=&quot;font-size: 24px;&quot;&gt;1&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BD6Zr6DT_tauVBgEH7CB-65">
+          <mxGeometry x="0.0229" y="-3" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="BD6Zr6DT_tauVBgEH7CB-67" value="&lt;span style=&quot;font-size: 36px;&quot;&gt;领取&lt;/span&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="290" y="475" width="120" height="90" as="geometry" />
         </mxCell>
